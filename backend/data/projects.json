@@ -1,0 +1,144 @@
+{
+  "company": {
+    "name": "Bhunidhi Developers",
+    "city": "Bangalore",
+    "phone": "+91 98765 43210",
+    "email": "sales@bhunidhi.com",
+    "address": "Bangalore, Karnataka"
+  },
+  "projects": [
+    {
+      "id": "bhunidhi-skyline",
+      "name": "Bhunidhi Skyline",
+      "status": "Open for booking",
+      "location": "Sarjapur Road, Bangalore",
+      "summary": "Premium plotted development with wide roads, drainage, and green buffers.",
+      "isPublished": true,
+      "availableSites": [
+        { "plotNo": "A-12", "sizeSqFt": 1200, "pricePerSqFt": 6999, "totalPrice": 8398800, "facing": "East" },
+        { "plotNo": "B-07", "sizeSqFt": 1500, "pricePerSqFt": 6999, "totalPrice": 10498500, "facing": "North" },
+        { "plotNo": "C-03", "sizeSqFt": 1800, "pricePerSqFt": 6899, "totalPrice": 12418200, "facing": "West" }
+      ],
+      "amenities": [
+        "30-ft internal roads",
+        "Underground electricity",
+        "Water line connection",
+        "Storm water drainage",
+        "CCTV at entry",
+        "Landscaped parks"
+      ],
+      "nearby": [
+        { "name": "Wipro SEZ", "distanceKm": 6.5 },
+        { "name": "Sarjapur Metro (planned)", "distanceKm": 4.2 },
+        { "name": "Columbia Asia Hospital", "distanceKm": 9.0 },
+        { "name": "International schools cluster", "distanceKm": 5.0 }
+      ],
+      "beforeAfter": {
+        "before": "Open land with informal access tracks.",
+        "after": "Plotted layout with paved roads, drainage, parks, and gated entry."
+      },
+      "mapHighlights": [
+        "Main access from 60-ft road",
+        "Parks on the north and east edges",
+        "Rainwater harvesting zones",
+        "Power lines routed underground"
+      ],
+      "budget": {
+        "maintenancePerYear": 12000,
+        "registrationEstimatePercent": 7.0,
+        "stampDutyPercent": 5.6
+      },
+      "timeline": {
+        "possession": "Ready to build",
+        "developmentPhase": "Phase 2 finishing",
+        "lastUpdated": "2026-02-10"
+      }
+    },
+    {
+      "id": "bhunidhi-orchards",
+      "name": "Bhunidhi Orchards",
+      "status": "Limited inventory",
+      "location": "Devanahalli, Bangalore",
+      "summary": "Nature-forward plots near the airport corridor with a gated community plan.",
+      "isPublished": true,
+      "availableSites": [
+        { "plotNo": "D-05", "sizeSqFt": 1200, "pricePerSqFt": 5999, "totalPrice": 7198800, "facing": "North-East" },
+        { "plotNo": "E-09", "sizeSqFt": 1500, "pricePerSqFt": 5899, "totalPrice": 8848500, "facing": "East" }
+      ],
+      "amenities": [
+        "Gated entry with security",
+        "Jogging track",
+        "Kids play zone",
+        "Street lighting",
+        "Community hall"
+      ],
+      "nearby": [
+        { "name": "Kempegowda International Airport", "distanceKm": 18.0 },
+        { "name": "IT SEZ cluster", "distanceKm": 12.0 },
+        { "name": "Upcoming logistics park", "distanceKm": 6.0 }
+      ],
+      "beforeAfter": {
+        "before": "Agricultural land with scattered trees.",
+        "after": "Orchard-inspired layout with parks, lighting, and paved roads."
+      },
+      "mapHighlights": [
+        "Central green spine",
+        "Community hall near entry",
+        "Dedicated water storage zone"
+      ],
+      "budget": {
+        "maintenancePerYear": 9000,
+        "registrationEstimatePercent": 7.0,
+        "stampDutyPercent": 5.6
+      },
+      "timeline": {
+        "possession": "2026 Q3",
+        "developmentPhase": "Phase 1 in progress",
+        "lastUpdated": "2026-02-10"
+      }
+    },
+    {
+      "id": "bhunidhi-lakeview",
+      "name": "Bhunidhi Lakeview",
+      "status": "Pre-launch",
+      "location": "Hennur Road, Bangalore",
+      "summary": "Lake-adjacent plotted community with green corridors, clubhouse, and jogging loops.",
+      "isPublished": true,
+      "availableSites": [
+        { "plotNo": "F-11", "sizeSqFt": 1350, "pricePerSqFt": 7299, "totalPrice": 9853650, "facing": "East" },
+        { "plotNo": "G-02", "sizeSqFt": 1650, "pricePerSqFt": 7199, "totalPrice": 11878350, "facing": "North" }
+      ],
+      "amenities": [
+        "Clubhouse with lounge",
+        "Jogging loop",
+        "Lake-view promenade",
+        "Children's play zone",
+        "Solar street lighting"
+      ],
+      "nearby": [
+        { "name": "Hennur Lake", "distanceKm": 2.4 },
+        { "name": "Manyata Tech Park", "distanceKm": 9.5 },
+        { "name": "Outer Ring Road", "distanceKm": 5.2 }
+      ],
+      "beforeAfter": {
+        "before": "Open land with seasonal lake views.",
+        "after": "Plotted community with lakefront promenade and landscaped buffers."
+      },
+      "mapHighlights": [
+        "Lake-edge green belt",
+        "60-ft main boulevard",
+        "Clubhouse near entry"
+      ],
+      "budget": {
+        "maintenancePerYear": 14000,
+        "registrationEstimatePercent": 7.0,
+        "stampDutyPercent": 5.6
+      },
+      "timeline": {
+        "possession": "2027 Q1",
+        "developmentPhase": "Approvals in progress",
+        "lastUpdated": "2026-03-01"
+      }
+    }
+  ]
+}

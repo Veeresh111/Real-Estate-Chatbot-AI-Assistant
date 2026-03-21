@@ -1,0 +1,33 @@
+{
+  "map_image": "blender/assets/site_map.jpg",
+  "map_plane_size_m": 240,
+  "map_rotation_deg": 0,
+  "map_offset": [0, 0, 0],
+  "duration_sec": 180,
+  "fps": 24,
+  "render_resolution": [1920, 1080],
+  "look_at": [0, 0, 0],
+  "camera_path": [
+    [-90, -120, 90],
+    [0, -60, 80],
+    [40, 10, 65],
+    [0, 80, 75],
+    [-40, 40, 60]
+  ],
+  "mix_rule": "Corner plots G+2, internal plots G+1",
+  "auto_buildings": {
+    "enabled": true,
+    "count": 60,
+    "bounds": [-90, 90, -90, 90],
+    "g2_ratio": 0.25,
+    "size_range": [6, 10]
+  },
+  "buildings": [],
+  "clubhouse": {
+    "location": [-70, -80, 0],
+    "size": [16, 12],
+    "height": 10,
+    "appear_start": 3000,
+    "appear_end": 3300
+  }
+}
